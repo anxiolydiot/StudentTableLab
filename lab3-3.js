@@ -15,7 +15,7 @@ function biBiRow ('student_table'){
                 }
 	}
 
-
+/*
 
 var delButtonDo = function biBiRow ('student_table')
 
